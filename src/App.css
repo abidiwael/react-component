@@ -1,0 +1,23 @@
+.App {
+  margin-top:30px;
+  text-align: center;
+  background-color: rgb(245, 245, 245);
+  border-radius: 15px;
+}
+
+.por{
+  border: 2px solid rgb(146, 143, 143);
+  border-radius: 5px;
+}
+
+.fn{
+  color: blue;
+  display: flex;
+  align-items: center;
+}
+.add{
+  display: flex;
+  align-items: center;
+  font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+  color :blueviolet
+}
